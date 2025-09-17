@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhangyi
-- 📚 硕士研究生 & AI图像算法
+- 📚 硕士研究生 & AI图像算法 & 机械
 - 📫 How to reach me:
 -     E-mail: xuenita4@gmail.com
 ---
